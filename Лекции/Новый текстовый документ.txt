@@ -1,0 +1,1 @@
+sqlcmd -S "LAPTOP-N0QMVJ9U" -d "Merh Univer"
